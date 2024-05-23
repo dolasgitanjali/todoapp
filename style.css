@@ -1,0 +1,28 @@
+body{
+    font-family:Verdana,Geneva,Tahoma,sans-serif;
+    background: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    margin:0;
+}
+
+.container{
+    background: white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.2);
+    width:380px;
+    text-align:center;
+}
+
+h1{
+    margin:0 0 20px;
+    color:#333;
+}
+form{
+    display: flex;
+    margin-bottom: 20px;
+}
+
